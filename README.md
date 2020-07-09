@@ -6,4 +6,4 @@
 - 💬 Ask me about [vim](https://www.vim.org/)
 - 📫 How to reach me: [neni.dev/hub](http://neni.dev/hub)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to do technical drawing with [CAD](https://www.autodesk.com.br/products/autocad/overview?plc=ACDIST&term=1-YEAR&support=ADVANCED&quantity=1)
+- ⚡ Fun fact: I worked with technical drawing using [CAD](https://www.autodesk.com.br/products/autocad/overview?plc=ACDIST&term=1-YEAR&support=ADVANCED&quantity=1)
