@@ -14,4 +14,5 @@ Sou programador e gosto de animes/mangás, livros, pedalar, jogos multiplayer lo
 - Trabalho como desenvolvedor jr na [OAB/RS](https://www.oabrs.org.br/) com PHP/Phalcon/Javascript.
 - Graduado em Análise e Desenvolvimento de Sistemas pela Ftec (2018)
 - Informações mais detalhadas no [**Linkedin**](https://www.linkedin.com/in/nenitf/)
-- Meus projetos mais relevantes estão fixados logo abaixo
+
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=nenitf&show_icons=true)
