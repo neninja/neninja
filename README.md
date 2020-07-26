@@ -15,4 +15,4 @@ Sou programador e gosto de animes/mangás, livros, pedalar, jogos multiplayer lo
 - :mortar_board: Graduado em Análise e Desenvolvimento de Sistemas pela Ftec (2018)
 - :page_facing_up: Informações mais detalhadas no [**Linkedin**](https://www.linkedin.com/in/nenitf/)
 
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=nenitf&show_icons=true)
+<!--![Profile Stats](https://github-readme-stats.vercel.app/api?username=nenitf&show_icons=true)-->
