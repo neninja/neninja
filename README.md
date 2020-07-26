@@ -1,6 +1,6 @@
 # Hi there 👋, I'm ~~Felipe~~ Neni
 
-Sou programador e curto animes/mangás, livros, pedalar, jogos multiplayer local, [vim](https://www.vim.org/) e meus [dotfiles](http://github.com/nenitf/dotfiles).
+Sou programador e curto animes/mangás, livros, pedalar, jogos multiplayer local, [estudar](https://gitlab.com/users/nenitf/projects), [vim](https://www.vim.org/) e meus [dotfiles](http://github.com/nenitf/dotfiles).
 
 - :telescope: Atualmente estudo sobre **testes**, **arquitetura** e **Laravel**
 - :pushpin: Mesmo tendo foco em **PHP**, também tenho interesse em **Go**, **Python**, **CSS**, **Javascript** e **Godot**
