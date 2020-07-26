@@ -9,8 +9,6 @@ Sou programador e gosto de animes/mangás, livros, pedalar, jogos multiplayer lo
 
 ---
 
-## Informações profissionais
-
 - :briefcase: Trabalho como desenvolvedor jr na [OAB/RS](https://www.oabrs.org.br/) com PHP/Phalcon/Javascript
 - :mortar_board: Graduado em Análise e Desenvolvimento de Sistemas pela Ftec (2018)
 - :page_facing_up: Informações mais detalhadas no [**Linkedin**](https://www.linkedin.com/in/nenitf/)
