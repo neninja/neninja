@@ -6,6 +6,7 @@ Sou Felipe, mas prefiro que me chamem de Neni. Gosto de animes/mangás, livros, 
 - Mesmo tendo foco em PHP, também tenho interesse em Go, Python, CSS, Javascript (back-end com express ou front-end com Vue ou React) e Godot
 - Minha conta no discord é nenitf#0822 e outras [redes sociais](http://neni.dev/hub)
 - [Blog](http://wtf.neni.dev)
+- [Estudos](http://neni.dev/ead)
 
 #### Informações profissionais
 
