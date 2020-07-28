@@ -4,7 +4,7 @@ I'm a programmer and I like anime/manga, books, cycling, local multiplayer games
 
 - :telescope: Currently studying **tests**, **architecture** and **Laravel**
 - :pushpin: Even with a focus on **PHP**, I am also interested in **Go**, **Python**, **CSS**, **Javascript** and **Godot**
-- :bust_in_silhouette: My discord account is `nenitf # 0822` and my other social networks are here (http://neni.dev/hub)
+- :bust_in_silhouette: My discord account is `nenitf # 0822` and my other social networks are [here](http://neni.dev/hub)
 - :briefcase: I work as a jr developer at [OAB/RS](https://www.oabrs.org.br/) with **PHP**/**Phalcon**/**Javascript**
 - :mortar_board: Graduated in Analysis and Systems Development from Ftec (2018)
 - :page_facing_up: More selected information on [**Linkedin**](https://www.linkedin.com/in/nenitf/)
