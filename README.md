@@ -1,6 +1,6 @@
 # Hi there 👋, I'm ~~Felipe~~ Neni
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/magnocarv/)](https://www.linkedin.com/in/nenitf/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nenitf/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/nenitf/)
 [![Discord](https://img.shields.io/badge/-Discord-7389D8?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/users/298546270451269642)
 [![Codepen](https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=Codepen&logoColor=white)](https://codepen.io/nenitf)
