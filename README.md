@@ -5,7 +5,7 @@
 [![Discord](https://img.shields.io/badge/-Discord-7389D8?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/users/298546270451269642)
 [![Codepen](https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=Codepen&logoColor=white)](https://codepen.io/nenitf)
 
-I'm a web programmer and I like animes/mangas, books, cycling, local multiplayer games, [studying](https://gitlab.com/users/nenitf/projects), [vim](https://www.vim.org/) and my [dotfiles](http://github.com/nenitf/dotfiles).
+I'm a web programmer and I like animes/mangas, local multiplayer games, [studying](https://gitlab.com/users/nenitf/projects), [vim](https://www.vim.org/) and my [dotfiles](http://github.com/nenitf/dotfiles).
 
 - :books: Currently studying **tests**, **architecture** and **Laravel**
 - :pushpin: Focused on **PHP** and interested in **Go**, **Python**, **CSS**, **Javascript** and **Godot**
