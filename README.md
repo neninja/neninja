@@ -10,4 +10,4 @@ I'm a web programmer and I like anime/manga, books, cycling, local multiplayer g
 - :dart: Currently studying **tests**, **architecture** and **Laravel**
 - :pushpin: Focused on **PHP** and interested in **Go**, **Python**, **CSS**, **Javascript** and **Godot**
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenitf&layout=compact">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nenitf&layout=compact)
