@@ -7,5 +7,5 @@
 
 I'm a web programmer and I like animes/mangas, local multiplayer games and [studying](https://gitlab.com/users/nenitf/projects).
 
-:books: Currently studying **tests**, **architecture** and **Laravel**
+:books: Currently studying **tests**, **architecture** and **Laravel**  
 :pushpin: Focused on **PHP** and interested in **Go**, **Python**, **CSS**, **Javascript** and **Godot**
