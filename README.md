@@ -1,6 +1,6 @@
 # Hi there 👋, I'm ~~Felipe~~ Neni
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenitf">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenitf&layout=compact">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/magnocarv/)](https://www.linkedin.com/in/nenitf/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/nenitf/)
