@@ -10,4 +10,4 @@
 I'm a web programmer and I like animes/mangas, local multiplayer games and [studying](https://gitlab.com/users/nenitf/projects).
 
 - :pushpin: Focused on **PHP** and interested in **Go**, **Python**, **CSS**, **Javascript** and **Godot**
-- :books: Currently studying **tests**, **architecture** and **Laravel**
+- :sparkles: [Current project](https://github.com/nenitf/devtou)
