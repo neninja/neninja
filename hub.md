@@ -27,6 +27,7 @@ Links das minhas contas
 
 - [Itch](https://nenitf.itch.io)
 - [Game Jolt](https://gamejolt.com/@nenitf)
+- [Gotm](https://gotm.io/u/nenitf)
 
 ## Design :eyeglasses:
 - [Piskelapp](https://www.piskelapp.com/user/5625764215521280)
