@@ -7,6 +7,6 @@
 [![Devto badge](https://img.shields.io/badge/-Blog-000000?style=flat-square&logo=DEV.to&logoColor=white)](https://dev.to/nenitf/)
 
 
-I'm a web programmer and I like animes/mangas, local multiplayer games and [studying](http://neni.dev/ead).
+I'm a web programmer and I like animes/mangas, local multiplayer games, [studying](http://neni.dev/ead) and build systems/tools to automate repetitive boring stuffs.
 
 - 📌 Focused on **PHP** and interested in **Go**, **Python**, **CSS**, **Javascript** and **Godot**
