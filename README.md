@@ -9,4 +9,4 @@
 
 I'm a web programmer and I like animes/mangas, local multiplayer games and [studying](http://neni.dev/ead).
 
-- :pushpin: Focused on **PHP** and interested in **Go**, **Python**, **CSS**, **Javascript** and **Godot**
+- 📌 Focused on **PHP** and interested in **Go**, **Python**, **CSS**, **Javascript** and **Godot**
