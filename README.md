@@ -24,10 +24,12 @@ I'm a web programmer and I like animes/mangas, local multiplayer games, [studyin
 
 [![Snippets blog](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=nenitf&repo=blog_snippets&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)](https://github.com/nenitf/blog_snippets)
 [![Curriculum Vitae](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=nenitf&repo=cv&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)](https://github.com/nenitf/cv)
+[![My portfolio](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=nenitf&repo=nenitf.github.io&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)](https://github.com/nenitf/nenitf.github.io)
 
 ## Tools to automate repetitive stuffs
 
 [![Zombicards project](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=jooaopc&repo=zombicards&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)](https://github.com/jooaopc/zombicards)
 [![Esquecicio project](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=nenitf&repo=esquecicio&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)](https://github.com/nenitf/esquecicio)
+[![Localspa project](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=nenitf&repo=localspa&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)](https://github.com/nenitf/localspa)
 
 </details>
