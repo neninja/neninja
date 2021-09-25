@@ -5,7 +5,7 @@ Links das minhas contas
 ## Contato :speech_balloon:
 
 - [Linkedin](http://linkedin.com/in/nenitf)
-- [Email](mailto:ola@neni.dev)
+- [Email](mailto:oi@neni.dev)
 - [Telegram](https://t.me/nenitf)
 
 ## Projetos :triangular_ruler:
