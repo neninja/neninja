@@ -21,6 +21,7 @@ I'm a web programmer and I like animes/mangas, local multiplayer games, [studyin
 
 ## Sites/blogs
 
+[![Emojicom specification](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=nenitf&repo=emojicom&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)](https://github.com/nenitf/emojicom#readme)
 [![Snippets blog](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=nenitf&repo=blog_snippets&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)](https://github.com/nenitf/blog_snippets)
 [![Curriculum Vitae](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=nenitf&repo=cv&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)](https://github.com/nenitf/cv)
 [![My portfolio](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=nenitf&repo=nenitf.github.io&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)](https://github.com/nenitf/nenitf.github.io)
