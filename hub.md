@@ -13,6 +13,7 @@ Links das minhas contas
 - [Github](http://github.com/nenitf)
 - [Gitlab](http://gitlab.com/nenitf)
 - [CodeSandBox](https://codesandbox.io/u/nenitf)
+- [Not a bug](https://notabug.org/nenitf)
 
 ## Algoritmos :heavy_check_mark:
 
