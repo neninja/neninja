@@ -2,7 +2,7 @@
 
 I'm a web programmer and I like animes/mangas, local multiplayer games, [studying](http://neni.dev/ead) and automate boring stuffs.
 
-- 📌 Focused on **PHP**, but also interested in **Go**, **Python**, **CSS**, **Javascript** and **Godot**
+- 📌 Focused on **PHP** and **Javascript**, but also interested in **Go**, **Python** and **Godot**
 - 🔭 I want to learn more about architecture and testing
 - 👥 You can reach me on [LinkedIn](https://www.linkedin.com/in/nenitf/)
 - 💼 See my [resume](http://neni.dev/cv)
