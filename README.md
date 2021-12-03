@@ -36,5 +36,10 @@ I'm a web programmer and I like animes/mangas, local multiplayer games, [studyin
 [![Esquecicio project](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=nenitf&repo=esquecicio&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)](https://github.com/nenitf/esquecicio)
 [![Localspa project](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=nenitf&repo=localspa&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)](https://github.com/nenitf/localspa)
 [![Dailypong](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=nenitf&repo=dailypong&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)](https://github.com/nenitf/dailypong)
+[![Rancho](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=nenitf&repo=rancho&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)](https://github.com/nenitf/rancho)
+[![Quem vai](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=nenitf&repo=quemvai&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)](https://github.com/nenitf/quemvai)
+<!--[![Offlinha](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=nenitf&repo=offlinha&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)](https://github.com/nenitf/offlinha)-->
+<!--[![Devto bot](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=nenitf&repo=devtome&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)](https://github.com/nenitf/devtome)-->
+
 
 </details>
