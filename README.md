@@ -23,30 +23,27 @@ I'm a web programmer and I like animes/mangas, local multiplayer games, [studyin
 
 ## Systems
 
-[![Report system](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=nenitf&repo=isb-conecta&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)](https://github.com/nenitf/isb-conecta)
-[![Conceitorio](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=nenitf&repo=conceitorio&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)](https://github.com/nenitf/conceitorio)
-[![Elefanteca API](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=nenitf&repo=elefanteca_api&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)](https://github.com/nenitf/elefanteca_api)
+- [Conceitorio](https://github.com/nenitf/conceitorio) ![wip](https://img.shields.io/badge/%20-WIP-blue)
+- [ISB Conecta](https://github.com/nenitf/isb-conecta) ![wip](https://img.shields.io/badge/%20-WIP-blue)
+- [Elefanteca API](https://github.com/nenitf/elefanteca_api) ![wip](https://img.shields.io/badge/%20-WIP-blue)
 
 ## Sites/blogs
 
-[![My portfolio](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=nenitf&repo=nenitf.github.io&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)](https://github.com/nenitf/nenitf.github.io)
-[![Curriculum Vitae](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=nenitf&repo=cv&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)](https://github.com/nenitf/cv)
-[![Emojicom specification](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=nenitf&repo=emojicom&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)](https://github.com/nenitf/emojicom)
-[![English learning blog](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=nenitf&repo=blog_projeto-bilingue&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)](https://github.com/nenitf/blog_projeto-bilingue)
-[![Snippets blog](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=nenitf&repo=blog_snippets&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)](https://github.com/nenitf/blog_snippets)
+- [English learning blog](https://github.com/nenitf/blog_projeto-bilingue)
+- [Emojicom specification](https://github.com/nenitf/emojicom)
+- [Curriculum Vitae](https://github.com/nenitf/cv)
+- [Snippets blog](https://github.com/nenitf/blog_snippets)
+- [My portfolio](https://github.com/nenitf/nenitf.github.io)
 
 ## Tools
 
-[![Devtome](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=nenitf&repo=devtome&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)](https://github.com/nenitf/devtome)
-[![Zombicards project](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=jooaopc&repo=zombicards&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)](https://github.com/jooaopc/zombicards)
-[![Localspa project](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=nenitf&repo=localspa&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)](https://github.com/nenitf/localspa)
-[![Esquecicio project](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=nenitf&repo=esquecicio&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)](https://github.com/nenitf/esquecicio)
-[![Dailypong](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=nenitf&repo=dailypong&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)](https://github.com/nenitf/dailypong)
-[![Rancho](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=nenitf&repo=rancho&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)](https://github.com/nenitf/rancho)
-[![Quem vai](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=nenitf&repo=quemvai&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)](https://github.com/nenitf/quemvai)
-[![Kamas](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=nenitf&repo=kamas&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)](https://github.com/nenitf/kamas)
-
-<!--[![Offlinha](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=nenitf&repo=offlinha&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)](https://github.com/nenitf/offlinha)-->
-
+- [Devtome](https://github.com/nenitf/devtome)
+- [Zombicards](https://github.com/jooaopc/zombicards)
+- [Localspa](https://github.com/nenitf/localspa)
+- [Esquecicio](https://github.com/nenitf/esquecicio)
+- [Dailypong](https://github.com/nenitf/dailypong)
+- [Quem vai](https://github.com/nenitf/quemvai)
+- [Rancho](https://github.com/nenitf/rancho)
+- [Kamas](https://github.com/nenitf/kamas)
 
 </details>
