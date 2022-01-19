@@ -11,9 +11,6 @@ I'm a web programmer and I like animes/mangas, local multiplayer games, [studyin
   - [Go](https://github.com/nenitf/devtome) ![cli](https://img.shields.io/badge/%20-CLI-blue)
   - [Hugo](https://github.com/nenitf/blog_projeto-bilingue) ![SSG](https://img.shields.io/badge/%20-SSG-blue)
 
-
-![Neni's top languages on Github](https://github-readme-stats.vercel.app/api/top-langs/?username=nenitf&layout=compact&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)
-
 <details>
   <summary>Projects</summary>
 
