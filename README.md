@@ -14,33 +14,23 @@ I'm a web programmer and I like animes/mangas, local multiplayer games, [studyin
 <details>
   <summary>Projects</summary>
 
-<!--
-[![ProjectName project](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=nenitf&repo=projectname&bg_color=00000000&title_color=2F80ED&icon_color=7F7F7F&text_color=7F7F7F&hide_border=true)](https://github.com/nenitf/projectname#readme)
--->
-
-## Systems
-
-- [Conceitorio](https://github.com/nenitf/conceitorio) ![wip](https://img.shields.io/badge/%20-WIP-blue)
-- [ISB Conecta](https://github.com/nenitf/isb-conecta) ![wip](https://img.shields.io/badge/%20-WIP-blue)
-- [Elefanteca API](https://github.com/nenitf/elefanteca_api) ![wip](https://img.shields.io/badge/%20-WIP-blue)
-
-## Sites/blogs
-
-- [English learning blog](https://github.com/nenitf/blog_projeto-bilingue)
-- [Emojicom specification](https://github.com/nenitf/emojicom)
-- [Curriculum Vitae](https://github.com/nenitf/cv)
-- [Snippets blog](https://github.com/nenitf/blog_snippets)
-- [My portfolio](https://github.com/nenitf/nenitf.github.io)
-
-## Tools
-
-- [Devtome](https://github.com/nenitf/devtome)
-- [Zombicards](https://github.com/jooaopc/zombicards)
-- [Localspa](https://github.com/nenitf/localspa)
-- [Esquecicio](https://github.com/nenitf/esquecicio)
-- [Dailypong](https://github.com/nenitf/dailypong)
-- [Quem vai](https://github.com/nenitf/quemvai)
-- [Rancho](https://github.com/nenitf/rancho)
-- [Kamas](https://github.com/nenitf/kamas)
+| Project                                                                  | Type        | First commit | WIP |
+|--------------------------------------------------------------------------|-------------|--------------|-----|
+| [Conceitorio](https://github.com/nenitf/conceitorio)                     | System      | 2021-12-21   | :x: |
+| [English learning blog](https://github.com/nenitf/blog_projeto-bilingue) | Static site | 2021-12-02   | :x: |
+| [Devtome](https://github.com/nenitf/devtome)                             | Tool        | 2021-10-14   |     |
+| [Emojicom specification](https://github.com/nenitf/emojicom)             | Static site | 2021-10-07   |     |
+| [Elefanteca API](https://github.com/nenitf/elefanteca_api)               | System      | 2021-09-10   | :x: |
+| [Dailypong](https://github.com/nenitf/dailypong)                         | Tool        | 2021-08-24   |     |
+| [Localspa](https://github.com/nenitf/localspa)                           | Tool        | 2021-06-30   |     |
+| [Zombicards](https://github.com/jooaopc/zombicards)                      | Tool        | 2021-06-16   |     |
+| [Quem vai](https://github.com/nenitf/quemvai)                            | Tool        | 2021-06-15   |     |
+| [Curriculum Vitae](https://github.com/nenitf/cv)                         | Static site | 2021-03-29   |     |
+| [Snippets blog](https://github.com/nenitf/blog_snippets)                 | Static site | 2021-03-18   |     |
+| [ISB Conecta](https://github.com/nenitf/isb-conecta)                     | System      | 2021-01-08   | :x: |
+| [Esquecicio](https://github.com/nenitf/esquecicio)                       | Tool        | 2020-11-03   |     |
+| [My portfolio](https://github.com/nenitf/nenitf.github.io)               | Static site | 2019-02-13   |     |
+| [Rancho](https://github.com/nenitf/rancho)                               | Tool        | 2018-06-30   | :x: |
+| [Kamas](https://github.com/nenitf/kamas)                                 | Tool        | 2018-01-11   |     |
 
 </details>
