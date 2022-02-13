@@ -1,6 +1,6 @@
 # Hi there 👋, I'm ~~Felipe~~ Neni
 
-I'm a web programmer and I like animes/mangas, local multiplayer games, [studying](http://neni.dev/ead) and automate boring stuffs.
+I'm a web programmer and I like animes/mangas, local multiplayer games, [studying](http://neni.dev/ead), customize [my development enviroment](http://d.neni.dev) and automate boring stuffs.
 
 - Focused on **PHP** and **Javascript**, but also interested in **Go**, **Python** and **Godot**
 - I want to learn more about architecture and testing
