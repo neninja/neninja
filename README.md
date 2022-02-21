@@ -35,6 +35,5 @@ I'm a web developer and I like animes/mangas, local multiplayer games, [studying
 | [My portfolio](https://github.com/nenitf/nenitf.github.io)               | Static site | 2019-02-13   |     |
 | [Rancho](https://github.com/nenitf/rancho)                               | Tool        | 2018-06-30   | :x: |
 | [Kamas](https://github.com/nenitf/kamas)                                 | Tool        | 2018-01-11   |     |
-| [
 
 </details>
