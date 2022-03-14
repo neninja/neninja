@@ -17,7 +17,7 @@ I'm a web developer and I like animes/mangas, local multiplayer games, [studying
 
 | Project                                                                  | Type        | First commit | WIP |
 |--------------------------------------------------------------------------|-------------|--------------|-----|
-| [Conta 66](https://github.com/nenitf/conta66)                            | Tool        | 2022-03-11   |     |
+| [Conta 66](https://github.com/nenitf/66)                                 | Tool        | 2022-03-11   |     |
 | [Async Poll](https://github.com/nenitf/async-poll)                       | System      | 2022-03-10   |     |
 | [Clover report viewer](https://codepen.io/nenitf/full/NWwYQoz)           | Tool        | 2022-02-21   |     |
 | [Conceitorio](https://github.com/nenitf/conceitorio)                     | System      | 2021-12-21   | :x: |
