@@ -17,6 +17,7 @@ I'm a web developer and I like animes/mangas, local multiplayer games, [studying
 
 | Project                                                                  | Type        | First commit | WIP |
 |--------------------------------------------------------------------------|-------------|--------------|-----|
+| [Introdução ao dev web](https://github.com/nenitf/intro-dev-web)         | Book        | 2022-04-22   | :x: |
 | [Conta 66](https://github.com/nenitf/66)                                 | Tool        | 2022-03-11   |     |
 | [Async Poll](https://github.com/nenitf/async-poll)                       | System      | 2022-03-10   |     |
 | [Clover report viewer](https://codepen.io/nenitf/full/NWwYQoz)           | Tool        | 2022-02-21   |     |
