@@ -5,7 +5,7 @@ I'm a web developer and I like animes/mangas, local multiplayer games, [studying
 
 - Focused on **PHP** and **Javascript**, but also interested in **Go** and **Godot**
 - I want to learn more about architecture and testing
-- You can reach me on [LinkedIn](https://www.linkedin.com/in/nenitf/)
+- You can find me on [LinkedIn](https://www.linkedin.com/in/nenitf/)
 - Favorite stacks:
   - [PHP, PHPUnit, Lumen, Doctrine and PostgreSQL](https://github.com/nenitf/elefanteca_api) ![web backend](https://img.shields.io/badge/%20-web%20backend-blue)
   - [React, Jest, Cypress and Typescript](https://github.com/nenitf/isb-conecta_ui) ![web frontend](https://img.shields.io/badge/%20-web%20frontend-blue)
