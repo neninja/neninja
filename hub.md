@@ -7,6 +7,7 @@ Links das minhas contas
 - [Linkedin](http://linkedin.com/in/nenitf)
 - [Email](mailto:oi@neni.dev)
 - [Telegram](https://t.me/nenitf)
+- [Discord](https://discord.com/users/298546270451269642)
 
 ## Projetos :triangular_ruler:
 
