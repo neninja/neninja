@@ -3,7 +3,7 @@
 
 I'm a web developer and I like animes/mangas, local multiplayer games, [studying](http://neni.dev/ead), customize [my development enviroment](http://d.neni.dev) and [automate boring stuffs](http://neni.dev/log).
 
-- Focused on **Rust** but also interested in **PHP**, **Javascript**, **Flutter**, **Hugo** and **Godot**
+- Focused on **Rust** but also interested in **Flutter**, **PHP**, **Javascript**, **Hugo** and **Godot**
 - I want to learn more about architecture and testing
 - You can find me on [LinkedIn](https://www.linkedin.com/in/nenitf/)
 - Favorite stacks:
