@@ -11,7 +11,7 @@ I'm a web developer and I like animes/mangas, local multiplayer games, [studying
   - [Hugo](https://github.com/nenitf/blog_projeto-bilingue) ![SSG](https://img.shields.io/badge/%20-SSG-blue)
   
   <!-- TODO -->
-  <!-- - [Flutter](/randomaster) ![mobile](https://img.shields.io/badge/%20-web%20backend-blue) -->
+  <!-- - [Flutter](/kros6) ![mobile](https://img.shields.io/badge/%20-web%20backend-blue) -->
   <!-- - [PHP, PHPUnit, Laravel, Sail and PostgreSQL](/laysta_api) ![web backend](https://img.shields.io/badge/%20-web%20backend-blue) -->
   <!-- - [React, Tailwind, Vitest and Typescript](/laysta_ui) ![web frontend](https://img.shields.io/badge/%20-web%20frontend-blue) -->
   <!-- - [Playwright](/laysta_qa) ![web e2e testing](https://img.shields.io/badge/%20-web%20frontend-blue) -->
