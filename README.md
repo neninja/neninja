@@ -10,7 +10,7 @@ I'm a web developer and I like animes/mangas, local multiplayer games, [studying
 ## :sparkles: Favorite stacks :sparkles:
   - [Pandoc](https://github.com/nenitf/intro-dev-web) ![ebook](https://img.shields.io/badge/%20-ebook-blue)
   - [Hugo](https://github.com/nenitf/blog_projeto-bilingue) ![SSG](https://img.shields.io/badge/%20-SSG-blue)
-  - [Flutter](/kros6) ![mobile](https://img.shields.io/badge/%20-web%20backend-blue)
+  - [Flutter](/kros6) ![mobile](https://img.shields.io/badge/%20-mobile-blue)
 
   
   <!-- TODO -->
