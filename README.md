@@ -6,7 +6,8 @@ I'm a web developer and I like animes/mangas, local multiplayer games, [studying
 - Focused on **PHP** but also interested in **Flutter**, **Rust**, **Javascript**, **Hugo** and **Godot**
 - I want to learn more about architecture and testing
 - You can find me on [LinkedIn](https://www.linkedin.com/in/nenitf/)
-- Favorite stacks :heart:
+
+## :sparkles: Favorite stacks :sparkles:
   - [Pandoc](https://github.com/nenitf/intro-dev-web) ![ebook](https://img.shields.io/badge/%20-ebook-blue)
   - [Hugo](https://github.com/nenitf/blog_projeto-bilingue) ![SSG](https://img.shields.io/badge/%20-SSG-blue)
   
