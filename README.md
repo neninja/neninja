@@ -9,7 +9,6 @@ I'm a web developer and I like animes/mangas, local multiplayer games, [studying
 
 ## :sparkles: Favorite stacks :sparkles:
 
-- [Flutter](https://github.com/nenitf/kros6) ![mobile](https://img.shields.io/badge/%20-mobile-blue)
 - [Pandoc](https://github.com/nenitf/intro-dev-web) ![ebook](https://img.shields.io/badge/%20-ebook-blue)
 - [Hugo](https://github.com/nenitf/blog_projeto-bilingue) ![SSG](https://img.shields.io/badge/%20-SSG-blue)
 
@@ -18,3 +17,5 @@ I'm a web developer and I like animes/mangas, local multiplayer games, [studying
 <!-- - [Playwright](/laysta_qa) ![web e2e testing](https://img.shields.io/badge/%20-web%20frontend-blue) -->
 <!-- - [Rust](/precomar) ![cli](https://img.shields.io/badge/%20-CLI-blue) -->
 <!-- - [Hugo](https://github.com/nenitf/proderit) ![SSG](https://img.shields.io/badge/%20-SSG-blue) -->
+
+<!-- - [Flutter](https://github.com/nenitf/kros6) ![mobile](https://img.shields.io/badge/%20-mobile-blue) -->
