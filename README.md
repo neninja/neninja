@@ -17,4 +17,5 @@ I'm a web developer and I like animes/mangas, local multiplayer games, [studying
 <!-- - [React, Tailwind, Vitest and Typescript](/laysta_ui) ![web frontend](https://img.shields.io/badge/%20-web%20frontend-blue) -->
 <!-- - [Playwright](/laysta_qa) ![web e2e testing](https://img.shields.io/badge/%20-web%20frontend-blue) -->
 <!-- - [Rust](/precomar) ![cli](https://img.shields.io/badge/%20-CLI-blue) -->
+<!-- - [Rust](/local-ws) ![local backend](https://img.shields.io/badge/%20-local%20web%20backend-blue) -->
 <!-- - [Hugo](https://github.com/nenitf/proderit) ![SSG](https://img.shields.io/badge/%20-SSG-blue) -->
