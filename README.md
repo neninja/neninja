@@ -3,7 +3,7 @@
 
 I'm a web developer and I like animes/mangas, local multiplayer games, [studying](http://neni.dev/ead), customize [my development enviroment](http://d.neni.dev) and [automate boring stuffs](http://neni.dev/log).
 
-- Focused on **PHP** but also interested in **Flutter**, **Rust**, **Javascript**, **Hugo** and **Godot**
+- Focused on **PHP** but also interested in **Flutter**, **Javascript**, **Hugo** and **Godot**
 - I want to learn more about architecture and testing
 - You can find me on [LinkedIn](https://www.linkedin.com/in/nenitf/)
 
@@ -12,6 +12,7 @@ I'm a web developer and I like animes/mangas, local multiplayer games, [studying
 - [Flutter](https://github.com/nenitf/kros6) ![mobile](https://img.shields.io/badge/%20-mobile-blue)
 - [Pandoc](https://github.com/nenitf/intro-dev-web) ![ebook](https://img.shields.io/badge/%20-ebook-blue)
 - [Hugo](https://github.com/nenitf/blog_projeto-bilingue) ![SSG](https://img.shields.io/badge/%20-SSG-blue)
+- [Go](https://github.com/nenitf/gon) ![cli](https://img.shields.io/badge/%20-CLI-blue)
 
 <!-- - [PHP, PHPUnit, Laravel, Sail and PostgreSQL](/laysta_api) ![web backend](https://img.shields.io/badge/%20-web%20backend-blue) -->
 <!-- - [React, Tailwind, Vitest and Typescript](/laysta_ui) ![web frontend](https://img.shields.io/badge/%20-web%20frontend-blue) -->
