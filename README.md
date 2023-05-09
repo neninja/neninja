@@ -1,7 +1,7 @@
 
 # Hi there 👋, I'm ~~Felipe~~ Neni
 
-I'm a web developer and I like animes/mangas, local multiplayer games, [studying](http://neni.dev/ead), customize [my development enviroment](http://d.neni.dev) and [automate boring stuffs](http://neni.dev/log).
+I'm a web developer and I like animes/mangas, Splatoon, local multiplayer games, [studying](http://neni.dev/ead), customize [my development enviroment](http://d.neni.dev) and [automate boring stuffs](http://neni.dev/log).
 
 - Focused on **PHP** but also interested in **Elixir**, **ReactJS** and **Hugo**
 - I want to learn more about architecture and testing
