@@ -21,3 +21,8 @@ I'm a web developer and I like animes/mangas, Splatoon, local multiplayer games,
 <!-- - [Rust](/local-ws) ![local backend](https://img.shields.io/badge/%20-local%20web%20backend-blue) -->
 <!-- - [Rust](/precomar) ![cli](https://img.shields.io/badge/%20-CLI-blue) -->
 <!-- - [Hugo](https://github.com/nenitf/proderit) ![SSG](https://img.shields.io/badge/%20-SSG-blue) -->
+
+## Guides
+
+- [![emojicom](https://img.shields.io/badge/emojicom-%F0%9F%90%9B%20%F0%9F%86%95%20%F0%9F%92%AF%20%F0%9F%91%AE%20%F0%9F%86%98%20%F0%9F%92%A4-%23fff)](http://neni.dev/emojicom)
+- [![contributing](https://img.shields.io/badge/CONTRIBUTING-CONTRIBUINDO-%23fff)](http://neni.dev/contributing)
