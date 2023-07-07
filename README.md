@@ -12,7 +12,7 @@ I'm a web developer and I like animes/mangas, Splatoon, local multiplayer games,
 <!-- - [Elixir and Phoenix](/sintoniapp) ![web backend](https://img.shields.io/badge/%20-web%20backend-blue) -->
 - [Flutter](https://github.com/nenitf/kros6) ![mobile](https://img.shields.io/badge/%20-mobile-blue)
 - [Pandoc](https://github.com/nenitf/intro-dev-web) ![ebook](https://img.shields.io/badge/%20-ebook-blue)
-- [Hugo](https://github.com/nenitf/blog_snippets) ![ssg](https://img.shields.io/badge/%20-ssg-blue)
+- [Hugo](https://github.com/nenitf/blog_projeto-bilingue) ![ssg](https://img.shields.io/badge/%20-ssg-blue)
 - [Go](https://github.com/nenitf/gon) ![cli](https://img.shields.io/badge/%20-cli-blue)
 
 <!-- - [PHP, PHPUnit, Laravel, Sail and PostgreSQL](/laysta_api) ![web backend](https://img.shields.io/badge/%20-web%20backend-blue) -->
