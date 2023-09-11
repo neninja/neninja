@@ -9,11 +9,14 @@ I'm a web developer and I like animes/mangas, Splatoon, local multiplayer games,
 
 ## :sparkles: Favorite stacks :sparkles:
 
-<!-- - [Elixir and Phoenix](/sintoniapp) ![web backend](https://img.shields.io/badge/%20-web%20backend-blue) -->
+<!-- - [Elixir and Phoenix](https://github.com/nenitf/sintoniapp) ![web backend](https://img.shields.io/badge/%20-web%20backend-blue) -->
 - [Flutter](https://github.com/nenitf/kros6) ![mobile](https://img.shields.io/badge/%20-mobile-blue)
 - [Pandoc](https://github.com/nenitf/intro-dev-web) ![ebook](https://img.shields.io/badge/%20-ebook-blue)
 - [Hugo](https://github.com/nenitf/wtf) ![ssg](https://img.shields.io/badge/%20-ssg-blue)
 - [Go](https://github.com/nenitf/gon) ![cli](https://img.shields.io/badge/%20-cli-blue)
+<!-- - [Laravel](https://github.com/nenitf/hidroponica) ![web backend](https://img.shields.io/badge/%20-web%20backend-blue) -->
+<!-- - [React](https://github.com/nenitf/hidroponica_ui) ![web frontend](https://img.shields.io/badge/%20-web%20backend-blue) -->
+<!-- - [React](https://github.com/nenitf/hidroponica_qa) ![web e2e testing](https://img.shields.io/badge/%20-web%20backend-blue) -->
 
 <!-- - [PHP, PHPUnit, Laravel, Sail and PostgreSQL](/laysta_api) ![web backend](https://img.shields.io/badge/%20-web%20backend-blue) -->
 <!-- - [React, Tailwind, Vitest and Typescript](/laysta_ui) ![web frontend](https://img.shields.io/badge/%20-web%20frontend-blue) -->
