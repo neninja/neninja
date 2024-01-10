@@ -6,6 +6,10 @@ I'm a web developer and I like animes/mangas, Splatoon, local multiplayer games,
 - Focused on **PHP** but also interested in **Go**, **Flutter**, **Elixir**, **ReactJS** and **Hugo**
 - I always want to learn more about architecture and testing
 - You can find me on [LinkedIn](https://www.linkedin.com/in/nenitf/)
+- Favorite tools:
+  - [nvim](https://neovim.io/)
+  - [gtimelog](https://gtimelog.org/)
+  - [awesomewm](https://awesomewm.org/)
 
 ## :sparkles: Favorite stacks :sparkles:
 
@@ -17,14 +21,6 @@ I'm a web developer and I like animes/mangas, Splatoon, local multiplayer games,
 - [Laravel](https://github.com/nenitf/hidroponica) ![web backend](https://img.shields.io/badge/%20-web%20backend-blue)
 - [Playwright](https://github.com/nenitf/hidroponiqa) ![web e2e testing](https://img.shields.io/badge/%20-web%20e2e%20testing-blue)
 <!-- - [React](https://github.com/nenitf/hidroponica_ui) ![web frontend](https://img.shields.io/badge/%20-web%20backend-blue) -->
-<!-- - [React](https://github.com/nenitf/hidroponica_qa) ![web e2e testing](https://img.shields.io/badge/%20-web%20backend-blue) -->
-
-<!-- - [PHP, PHPUnit, Laravel, Sail and PostgreSQL](/laysta_api) ![web backend](https://img.shields.io/badge/%20-web%20backend-blue) -->
-<!-- - [React, Tailwind, Vitest and Typescript](/laysta_ui) ![web frontend](https://img.shields.io/badge/%20-web%20frontend-blue) -->
-<!-- - [Playwright](/laysta_qa) ![web e2e testing](https://img.shields.io/badge/%20-web%20frontend-blue) -->
-<!-- - [Rust](/local-ws) ![local backend](https://img.shields.io/badge/%20-local%20web%20backend-blue) -->
-<!-- - [Rust](/precomar) ![cli](https://img.shields.io/badge/%20-CLI-blue) -->
-<!-- - [Hugo](https://github.com/nenitf/proderit) ![SSG](https://img.shields.io/badge/%20-SSG-blue) -->
 
 ## Guides
 
