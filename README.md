@@ -10,6 +10,7 @@ I'm a web developer and I like animes/mangas, Splatoon, local multiplayer games,
   - [nvim](https://neovim.io/)
   - [gtimelog](https://gtimelog.org/)
   - [awesomewm](https://awesomewm.org/)
+  - [localsend](https://localsend.org/#/)
 
 ## :sparkles: Favorite stacks :sparkles:
 
