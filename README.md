@@ -5,7 +5,7 @@ I'm a web developer and I like animes/mangas, Splatoon, local multiplayer games,
 
 - Focused on **PHP** but also interested in **Go**, **Flutter**, **Elixir**, **ReactJS** and **Hugo**
 - I always want to learn more about architecture and testing
-- You can find me on [LinkedIn](https://www.linkedin.com/in/nenitf/)
+- You can find me on [LinkedIn](https://www.linkedin.com/in/neninja/)
 - Favorite tools:
   - [nvim](https://neovim.io/)
   - [gtimelog](https://gtimelog.org/)
