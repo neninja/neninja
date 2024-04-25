@@ -8,6 +8,8 @@ I'm a web developer and I like animes/mangas, Splatoon, local multiplayer games,
 - You can find me on [LinkedIn](https://www.linkedin.com/in/neninja/)
 - Favorite tools:
   - [nvim](https://neovim.io/)
+  - [logseq](https://logseq.com/)
+  - [syncthing](https://syncthing.net/)
   - [gtimelog](https://gtimelog.org/)
   - [awesomewm](https://awesomewm.org/)
   - [localsend](https://localsend.org/#/)
