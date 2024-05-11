@@ -19,7 +19,6 @@ I'm a web developer and I like animes/mangas, Splatoon, local multiplayer games,
 
 <!-- - [Elixir and Phoenix](https://github.com/neninja/sintoniapp) ![web backend](https://img.shields.io/badge/%20-web%20backend-blue) -->
 - [Flutter](https://github.com/neninja/kros6) ![mobile](https://img.shields.io/badge/%20-mobile-blue)
-- [Pandoc](https://github.com/neninja/intro-dev-web) ![ebook](https://img.shields.io/badge/%20-ebook-blue)
 - [Hugo](https://github.com/neninja/wtf) ![ssg](https://img.shields.io/badge/%20-ssg-blue)
 - [Go](https://github.com/neninja/gon) ![cli](https://img.shields.io/badge/%20-cli-blue)
 - [Laravel](https://github.com/neninja/hidroponica) ![web backend](https://img.shields.io/badge/%20-web%20backend-blue)
