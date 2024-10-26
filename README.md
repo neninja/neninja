@@ -14,6 +14,7 @@ I'm a web developer and I like animes/mangas, Splatoon, local multiplayer games,
   - [awesomewm](https://awesomewm.org/)
   - [localsend](https://localsend.org/#/)
   - [mailpit](https://github.com/axllent/mailpit)
+  - [drawio](https://github.com/jgraph/drawio)
 
 ## :sparkles: Favorite stacks :sparkles:
 
