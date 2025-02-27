@@ -1,7 +1,7 @@
 
 # Hi there 👋, I'm ~~Felipe~~ Neni
 
-I'm a web developer and I like animes/mangas, Splatoon, local multiplayer games and customize [my development enviroment](http://d.neni.dev)
+I'm a web developer and I like animes/mangas, Splatoon, Mage Knight Boardgame, local multiplayer games and customize [my development enviroment](http://d.neni.dev)
 
 - Focused on **Laravel** but also interested in **Elixir**
 - I always want to learn more about architecture and testing
