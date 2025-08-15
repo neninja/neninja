@@ -3,7 +3,7 @@
 
 I'm a web developer and I like animes/mangas, Splatoon, Mage Knight Boardgame, local multiplayer games and customize [my development enviroment](http://d.neni.dev)
 
-- Focused on **Laravel** but also interested in **Elixir**
+- Focused on **Elixir** but also interested in **Playwright**
 - I always want to learn more about architecture and testing
 - You can find me on [LinkedIn](https://www.linkedin.com/in/neninja/)
 - Favorite tools:
